@@ -1,0 +1,444 @@
+[
+  {
+    "name": "growing_dimension_I_100_R_3_SNR_0.1",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 100, 100],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.1,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "growing_dimension_I_200_R_3_SNR_0.1",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.1,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "growing_dimension_I_300_R_3_SNR_0.1",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [300, 300, 300],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.1,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "growing_dimension_I_100_R_3_SNR_0.3",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 100, 100],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "growing_dimension_I_200_R_3_SNR_0.3",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "growing_dimension_I_300_R_3_SNR_0.3",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [300, 300, 300],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "growing_dimension_I_100_R_3_SNR_0.5",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 100, 100],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "growing_dimension_I_200_R_3_SNR_0.5",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "growing_dimension_I_300_R_3_SNR_0.5",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [300, 300, 300],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "unbalanced_dimension_I_100_100_200_R_3_SNR_0.3",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 100, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "unbalanced_dimension_I_100_100_400_R_3_SNR_0.3",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 100, 400],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "unbalanced_dimension_I_100_200_200_R_3_SNR_0.3",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "unbalanced_dimension_I_100_200_400_R_3_SNR_0.3",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 200, 400],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "unbalanced_dimension_I_100_100_200_R_3_SNR_0.5",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 100, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "unbalanced_dimension_I_100_100_400_R_3_SNR_0.5",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 100, 400],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "unbalanced_dimension_I_100_200_200_R_3_SNR_0.5",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "unbalanced_dimension_I_100_200_400_R_3_SNR_0.5",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [100, 200, 400],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "Gamma_effect_I_200_R_3_SNR_0.3_ETA_0.00",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "eta": 0.00,
+      "q": 2,
+      "fit_with_gamma": true
+    }
+  },
+
+  {
+    "name": "Gamma_effect_I_200_R_3_SNR_0.3_ETA_0.01",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "eta": 0.01,
+      "q": 2,
+      "fit_with_gamma": true
+    }
+  },
+
+  {
+    "name": "Gamma_effect_I_200_R_3_SNR_0.3_ETA_0.1",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "eta": 0.1,
+      "q": 2,
+      "fit_with_gamma": true
+    }
+  },
+
+  {
+    "name": "Gamma_effect_I_200_R_3_SNR_0.3_ETA_1",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 4,
+      "fit_order": 4,
+      "eta": 1,
+      "q": 2,
+      "fit_with_gamma": true
+    }
+  },
+
+  {
+    "name": "J_effect_I_200_R_3_SNR_0.3_J_2_16",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 16,
+      "fit_order": 2,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "J_effect_I_200_R_3_SNR_0.3_J_4_16",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 16,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "J_effect_I_200_R_3_SNR_0.3_J_8_16",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 16,
+      "fit_order": 8,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "J_effect_I_200_R_3_SNR_0.3_J_16_16",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.3,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 16,
+      "fit_order": 16,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "J_effect_I_200_R_3_SNR_0.5_J_2_16",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 16,
+      "fit_order": 2,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "J_effect_I_200_R_3_SNR_0.5_J_4_16",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 16,
+      "fit_order": 4,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "J_effect_I_200_R_3_SNR_0.5_J_8_16",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 16,
+      "fit_order": 8,
+      "q": 2
+    }
+  },
+
+  {
+    "name": "J_effect_I_200_R_3_SNR_0.5_J_16_16",
+    "repeats": 100,
+    "kwargs": {
+      "S_shape": [200, 200, 200],
+      "F_shape": [3, 3, 3],
+      "X_dims": [2, 2, 2],
+      "snr": 0.5,
+      "sieve_basis": "legendre_basis",
+      "gen_order": 16,
+      "fit_order": 16,
+      "q": 2
+    }
+  }
+]
